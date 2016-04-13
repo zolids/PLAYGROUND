@@ -1,0 +1,9 @@
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\bin\Debug\AMSCore.dll
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\bin\Debug\AMSCore.pdb
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\bin\Debug\AutoMapper.dll
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\bin\Debug\MySql.Data.dll
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\bin\Debug\RestSharp.dll
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\bin\Debug\TarsierEyes.dll
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\obj\Debug\AMSCore.dll
+C:\Users\ITJCAPC\Dropbox\Synchronizer V1\AMSCore\AMSCore\obj\Debug\AMSCore.pdb
